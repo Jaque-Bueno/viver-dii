@@ -30,6 +30,14 @@ O projeto prevê diferentes frentes conectadas:
 - 💙 **Conteúdo para familiares e cuidadores**
 - 🌐 **Parcerias futuras** com profissionais, organizações, empresas e estabelecimentos
 
+## 📱 Conheça o MVP
+
+O Viver DII já possui um **MVP navegável desenvolvido no Figma**, criado para demonstrar a experiência inicial do projeto e apoiar o processo de validação com usuários.
+
+🔗 **[Acessar o protótipo do Viver DII no Figma](https://www.figma.com/proto/1Z6cWn2MHwNHhsjDCZWXWG/Viver-DII-%7C-MVP-Explorer-2026?node-id=101-16&t=exSuqIFMaH4BDhoP-0&scaling=scale-down&content-scaling=fixed&page-id=6%3A4&starting-point-node-id=101%3A16)**
+
+> O MVP representa uma versão inicial da proposta. As funcionalidades apresentadas ainda estão em processo de validação e evolução.
+
 ## 🚀 Estágio atual
 
 ✅ Identidade e Design System definidos  
