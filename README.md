@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_7585.png" alt="Logo Viver DII" width="350">
+</p>
+
 # 💙 Viver DII
 
 ### Acolhimento • Informação • Conexão
