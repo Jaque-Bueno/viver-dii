@@ -44,7 +44,7 @@ O Viver DII está em fase de validação e queremos ouvir pessoas que convivem c
 
 Sua experiência pode nos ajudar a compreender necessidades reais e definir os próximos passos do projeto.
 
-📋 **[Responder à Pesquisa Viver DII](https://bit.ly/pesquisa-viverdii)**
+📋 **[Responder à Pesquisa Viver DII](https://docs.google.com/forms/d/e/1FAIpQLSe79FZ8_r4ZlMRbDHg6XGekQGwPIjGRGJNVHPOo5E0g7q3X-A/viewform)**
 
 > Queremos construir o Viver DII com as pessoas, e não apenas para elas.
 
