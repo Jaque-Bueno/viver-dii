@@ -37,6 +37,16 @@ O Viver DII já possui um **MVP navegável desenvolvido no Figma**, criado para 
 🔗 **[Acessar o protótipo do Viver DII no Figma](https://www.figma.com/proto/1Z6cWn2MHwNHhsjDCZWXWG/Viver-DII-%7C-MVP-Explorer-2026?node-id=101-16&t=exSuqIFMaH4BDhoP-0&scaling=scale-down&content-scaling=fixed&page-id=6%3A4&starting-point-node-id=101%3A16)**
 
 > O MVP representa uma versão inicial da proposta. As funcionalidades apresentadas ainda estão em processo de validação e evolução.
+>
+> ## 💙 Participe da construção do Viver DII
+
+O Viver DII está em fase de validação e queremos ouvir pessoas que convivem com DII, familiares e cuidadores.
+
+Sua experiência pode nos ajudar a compreender necessidades reais e definir os próximos passos do projeto.
+
+📋 **[Responder à Pesquisa Viver DII](https://bit.ly/pesquisa-viverdii)**
+
+> Queremos construir o Viver DII com as pessoas, e não apenas para elas.
 
 ## 🚀 Estágio atual
 
